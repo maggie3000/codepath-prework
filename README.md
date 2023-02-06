@@ -6,7 +6,7 @@ Allows the user to introduce themself.
 
 ### App Walk-though
 
- <img src="Prework.gif" width=200><br>
+ <img src="Prework.gif" width=500><br>
 
 ### Required Features
 
